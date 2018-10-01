@@ -1,5 +1,7 @@
 # Gaz_2D
-A program that simulates a gaz by implementing elastical collisions between particles in a 2D box. The velocity distribution is shown.
+A program that simulates a gaz by implementing elastical collisions between particles in a 2D box. The velocity distribution is shown. 
+
+This was my first simulation of that kind and the approch that I used to perform the simulation is a bit weird. This program was made just for fun and was left with some bugs still present.
 
 ![alt text](Screenshot-brownian.png?raw=true "Screenshot - Brownian Motion")
 ![alt text](Screenshot-velocities.png?raw=true "Screenshot - Distribution of Velocities")
